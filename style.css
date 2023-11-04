@@ -1,0 +1,25 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+
+  height: 70vh;
+  background-image: url(images.jpg);
+}
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+
+  height: 70vh;
+  background-image: url(iStock-517188688.jpg);
+}
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+
+  height: 70vh;
+  background-image: url(ta-canh-bien-tren-que-huong.jpg);
+}
+
+.footer {
+  bottom: 0;
+}
